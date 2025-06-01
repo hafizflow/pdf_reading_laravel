@@ -5,4 +5,5 @@
 `http://localhost:8000/api/schedule?day=Monday`
 
 ### Terminal Command 
+`composer require smalot/pdfparser`
 `php artisan serve`
